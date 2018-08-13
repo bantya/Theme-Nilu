@@ -1,2 +1,30 @@
 # Theme-Nilu
 A sublime theme based on its current Adaptive theme.
+
+The settings are:
+
+1. Sidebar denseness:
+    1. `theme_sidebar_cozy`
+    2. `theme_sidebar_normal`
+    3. `theme_sidebar_compact`
+
+2. Theme font style:
+    1. `theme_font_bold`
+    2. `theme_font_italic`
+
+3. Theme font size:
+    1. `theme_font_small`
+    2. `theme_font_normal`
+    3. `theme_font_big`
+
+4. Theme font family:
+    1. `theme_font_fira_code`
+    2. `theme_font_roboto_mono`
+    3. `theme_font_inconsolata`
+
+5. Tab related:
+    1. `theme_tabs_editor_separator`
+    2. `theme_no_tabs_slider`
+    3. `theme_tabs_fluid`
+    4. `theme_tabs_gap`
+    5. `theme_no_tabs_slider`
