@@ -2327,12 +2327,6 @@
         "layer0.draw_center": false,
         "layer0.tint": ["background", 0, 0, 0, 0.05],
         "layer0.opacity": 1.0,
-        "settings": ["!theme_contrast"],
-    },
-    {
-        "class": "sidebar_container",
-        "layer0.draw_center": false,
-        "layer0.opacity": 1.0,
         "settings": ["theme_contrast"],
     },
     {
@@ -2523,11 +2517,6 @@
     {
         "class": "tabset_control",
         "layer0.tint": ["background", 0, 0, 0, 0.1],
-        "settings": ["!theme_contrast"]
-    },
-    {
-        "class": "tabset_control",
-        "layer0.tint": ["background", 0, 0, 0, 0.4],
         "settings": ["theme_contrast"]
     },
     {
