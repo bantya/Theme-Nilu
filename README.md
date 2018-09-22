@@ -4,7 +4,7 @@ A sublime theme based on its current Adaptive theme.
 The settings are:
 
 1. Theme contrast mode:
-    1. `theme_contrast`
+    1. `theme_contrast` (Does not work for **Nilu-Default** theme)
 
 2. Sidebar denseness:
     1. `theme_sidebar_cozy`
