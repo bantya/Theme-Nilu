@@ -1789,10 +1789,6 @@
         "layer3.opacity": 0,
         "content_margin": [15, 7, 9, 0],
     },
-    // {
-    //     "class": "tab_control",
-    //     "layer1.tint": ["background", 0, 0, 0, 0.2],
-    // },
     // tab set scroll left | scroll right
     {
       "class": "scroll_tabs_left_button",
