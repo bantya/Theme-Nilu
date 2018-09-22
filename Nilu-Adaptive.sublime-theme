@@ -1760,12 +1760,12 @@
     {
         "class": "tabset_control",
         "content_margin": [0, -5, 3, 1],
-        "settings": ["theme_no_tabs_slider", "theme_tabs_editor_separator"],
+        "settings": ["theme_hide_tabs_slider", "theme_tabs_editor_separator"],
     },
     {
         "class": "tabset_control",
         "content_margin": [0, -5, 3, 0],
-        "settings": ["theme_no_tabs_slider", "!theme_tabs_editor_separator"],
+        "settings": ["theme_hide_tabs_slider", "!theme_tabs_editor_separator"],
     },
     {
         "class": "tabset_control",
@@ -1805,12 +1805,12 @@
     {
       "class": "scroll_tabs_left_button",
       "content_margin": 0,
-      "settings": ["theme_no_tabs_slider"],
+      "settings": ["theme_hide_tabs_slider"],
     },
     {
       "class": "scroll_tabs_right_button",
       "content_margin": 0,
-      "settings": ["theme_no_tabs_slider"],
+      "settings": ["theme_hide_tabs_slider"],
     },
 
     /* Command Panel */
