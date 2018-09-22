@@ -31,3 +31,6 @@ The settings are:
     3. `theme_tabs_fluid`
     4. `theme_tabs_gap`
     5. `theme_no_tabs_slider`
+
+7. Buttons related:
+    1. `theme_big_buttons`
